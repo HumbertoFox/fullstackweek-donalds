@@ -41,7 +41,6 @@ export default function HomePage() {
           Selecione o Fest Food!
         </h1>
 
-
         {error && <p>{error}</p>}
 
         {location ? (
